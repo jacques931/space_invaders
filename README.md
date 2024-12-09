@@ -1,6 +1,6 @@
 ## Installation
 ### Attention :
-Lorsque vous configurez ce projet, assurez-vous de le placer correctement dans un package nommé SpaceInvader. Cela est essentiel pour éviter des problèmes liés aux chemins des fichiers, notamment ceux des images. Si vous utilisez IntelliJ IDEA, vérifiez que la structure du projet est bien organisée pour correspondre à cette configuration.
+Lorsque vous configurez ce projet, assurez-vous de le placer correctement dans un package nommé `SpaceInvader`. Cela est essentiel pour éviter des problèmes liés aux chemins des fichiers, notamment ceux des images. Si vous utilisez IntelliJ IDEA, vérifiez que la structure du projet est bien organisée pour correspondre à cette configuration.
 ## Description du Projet
 Le projet Space Invader est un jeu d'arcade classique revisité, développé en Java en utilisant JOGL (Java OpenGL). Ce jeu met en scène une bataille spatiale où le joueur contrôle un vaisseau pour défendre la Terre contre une invasion extraterrestre.
 
