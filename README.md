@@ -1,5 +1,5 @@
 ## Description du Projet
-Le projet Space Invader est un jeu d'arcade classique revisité, développé en Java en utilisant JOGL (Java OpenGL). Ce jeu met en scène une bataille spatiale où le joueur contrôle un vaisseau pour défendre la Terre contre une invasion extraterrestre. Le gameplay rapide et immersif teste vos réflexes et votre stratégie pour éliminer des vagues d'ennemis tout en évitant leurs tirs.
+Le projet Space Invader est un jeu d'arcade classique revisité, développé en Java en utilisant JOGL (Java OpenGL). Ce jeu met en scène une bataille spatiale où le joueur contrôle un vaisseau pour défendre la Terre contre une invasion extraterrestre.
 
 ## Objectifs du Jeu
 Éliminer les Aliens : Détruisez tous les ennemis avant qu'ils n'atteignent la surface terrestre.
